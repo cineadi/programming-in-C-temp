@@ -12,3 +12,4 @@ Explore new topics (DBMS, OS, Web Dev, etc.)
 
 Become more consistent & disciplined
 1
+sk
