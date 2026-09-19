@@ -1,3 +1,5 @@
+NAME - ADUTYA TOMAR
+SAP ID - 590025756
 Welcome to my 100 Days of Code Challenge! 🎯
 The goal is to code every day for 100 days, share progress, and stay consistent.
 🎯 Goals for This Challenge.
@@ -11,5 +13,3 @@ Learn Data Structures & Algorithms
 Explore new topics (DBMS, OS, Web Dev, etc.)
 
 Become more consistent & disciplined
-1
-sk
